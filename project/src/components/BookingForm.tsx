@@ -2,7 +2,7 @@ import React from 'react';
 import { Phone } from 'lucide-react';
 
 const WhatsAppCTA: React.FC = () => {
-  const whatsappNumber = '5585998220207'; // seu DDI+DDD
+  const whatsappNumber = '558899879997';
   const message = 'Olá! Gostaria de agendar minha avaliação com 50% de desconto.'; 
   const waLink = `https://api.whatsapp.com/send?phone=${whatsappNumber}&text=${encodeURIComponent(message)}`;
 

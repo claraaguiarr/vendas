@@ -31,14 +31,16 @@ const HeroSection: React.FC = () => {
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
             <a 
-              href="#agendar" 
+              href="https://wa.me/558899879997" 
+              target="_blank"
+              rel="noopener noreferrer" 
               className="btn btn-primary-darker flex items-center justify-center gap-2 group border-2 border-red-500" /* Added border */
             > 
               <Sparkles className="w-5 h-5 group-hover:animate-pulse" />
               <span>Agende Agora com 50% OFF</span>
             </a>
             <a 
-              href="#beneficios" 
+              href="#depoimentos" 
               className="btn btn-outline border-2 border-red-500" /* Added border */
             >
               Ver Resultados Reais

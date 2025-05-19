@@ -82,8 +82,10 @@ const FaqSection: React.FC = () => {
             <p className="text-text-light mb-6">
               Ainda tem dúvidas? Entre em contato conosco diretamente
             </p>
-            <a 
-              href="#agendar"
+                        <a 
+              href="https://wa.me/558899879997" 
+              target="_blank" 
+              rel="noopener noreferrer"
               className="btn btn-outline inline-flex items-center gap-2"
             >
               <span>Fale com um especialista</span>
