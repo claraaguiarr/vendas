@@ -4,23 +4,23 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 const testimonials = [
   {
     id: 1,
-    image: '/src/image/1.jpeg',
+    image: '../src/image/1.jpeg',
   },
   {
     id: 2,
-    image: '/src/image/2.jpeg',
+    image: '../src/image/2.jpeg',
   },
   {
     id: 3,
-    image: '/src/image/3.jpeg',
+    image: '../src/image/3.jpeg',
   },
   {
     id: 4,
-    image: '/src/image/4.jpeg',
+    image: '../src/image/4.jpeg',
   },
   {
     id: 5,
-    image: '/src/image/5.jpeg',
+    image: '../src/image/5.jpeg',
   }
 ];
 
