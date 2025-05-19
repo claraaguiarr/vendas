@@ -13,7 +13,7 @@ const AboutSection: React.FC = () => {
               
               <div className="relative bg-gradient-to-tr from-gradient-start to-gradient-end rounded-lg overflow-hidden shadow-xl h-[500px]">
                 <img 
-                  src="/src/6.jpeg" 
+                  src="/6.jpeg" 
                   alt="Estética profissional" 
                   className="w-full h-full object-cover"
                 />
